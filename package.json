@@ -6,5 +6,9 @@
   },
   "devDependencies": {
     "snowpack": "^3.0.1"
+  },
+  "dependencies": {
+    "@uppy/core": "^1.18.1",
+    "@uppy/react": "^1.11.8"
   }
 }
